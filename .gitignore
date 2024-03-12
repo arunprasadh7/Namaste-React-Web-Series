@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+
+# Code folder 
+Namaste React All Asssigments/
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Build files
+build/
+dist/
+
+# Dependency directories
+lib/
+vendor/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# .env files
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Yarn
+yarn-error.log
+.pnp.*
+.pnp.js
+
+# npm
+*.pnp.js
+
+# TypeScript
+*.tsbuildinfo
+
+# React
+build/
